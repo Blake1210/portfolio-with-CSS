@@ -6,4 +6,4 @@ In this challenge, I utilized CSS and HTML to make an early draft of a portfolio
 ![image](https://user-images.githubusercontent.com/108911520/208752516-96d359ab-276d-439f-9ddf-cd765e77fe27.png)
 
 # Link to Website
-Deployed link :
+Deployed link : https://blake1210.github.io/portfolio-with-CSS/
