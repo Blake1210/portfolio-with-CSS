@@ -91,6 +91,7 @@
   
   p {
     margin: 0;
+    font-size: 20px;
   }
   
   header {
@@ -144,6 +145,7 @@
   main {
     margin-top: 20px;
     margin-bottom: 45px;
+    padding: 10px;
   }
   
   .hero-banner {
@@ -343,11 +345,23 @@ text-align: center;
   /* portfolio images */
 
   #movies{
-    background-image: url("../images/02-run-buddy.jpg");
+    background-image: url("../images/movie\ icon.png");
   }
 
   .todo-list{
     background-image: url("../images/to-do-list.jpg");
+  }
+
+  .quiz {
+    background-image: url("../images/Quiz.png");
+  }
+
+  .password-generator {
+    background-image: url("../images/lock\ icon.png");
+  }
+
+  .weather-dashboard {
+    background-image: url("../images/weather.png");
   }
 
   @media screen and (max-width: 980px) {
